@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>saya mau makan</title>
+    <title>Laravel</title>
+    
 </head>
 <body>
-    
+    <h1>
+        Saya Mau Makan
+    </h1>
 </body>
 </html>
